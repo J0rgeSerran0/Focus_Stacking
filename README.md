@@ -47,8 +47,8 @@ And finally, we will use a Software to retouch some values of the image to finis
 
 ### Other Software alternatives
 - [TuFuse (FREE - for Windows only)](http://www.tawbaware.com/tufuse.htm)
-- [Picolay - (FREE - for Windows only)](http://www.picolay.de/index.html)
-- [CombineZ (FREE - Discontinued - for Windows only)](CombineZ/CombineZP.msi)
+- [**Picolay** - (FREE - for Windows only)](http://www.picolay.de/index.html)
+- [**CombineZ** (FREE - Discontinued - for Windows only)](CombineZ/CombineZP.msi)
 The original and first version was **CombineZ5**, without change since 2006
 
 **CombineZM** appeared between 2006 and 2008. [Source Code](CombineZ/CombineZ5_source_code.zip)
