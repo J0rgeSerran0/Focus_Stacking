@@ -46,6 +46,8 @@ And finally, we will use a Software to retouch some values of the image to finis
 - [Zerene Stacker](https://zerenesystems.com/cms/stacker)
 
 ### Other Software alternatives
+- [TuFuse (FREE - for Windows only)](http://www.tawbaware.com/tufuse.htm)
+- [Picolay - (FREE - for Windows only)](http://www.picolay.de/index.html)
 - CombineZ (FREE - Discontinued - for Windows only)
 The original and first version was **CombineZ5**, without change since 2006
 
