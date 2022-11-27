@@ -39,13 +39,13 @@ Here, we can use a Software to help us with this task (I will talk about this in
 And finally, we will use a Software to retouch some values of the image to finish it
 
 ## Software to stack the photos
-Popular Software alternatives
+### Popular Software alternatives
 - [Photoshop](https://www.adobe.com/es/products/photoshop/landpb.html) (File > Scripts > Load File into Stack)
 - [GIMP](https://www.gimp.org/) (Filters > Combine > Depth Merge)
 - [Helicon Focus](https://www.heliconsoft.com/heliconsoft-products/helicon-focus/)
 - [Zerene Stacker](https://zerenesystems.com/cms/stacker)
 
-Other Software alternatives
+### Other Software alternatives
 - CombineZ (FREE - Discontinued - for Windows only)
 The original and first version was **CombineZ5**, without change since 2006
 
