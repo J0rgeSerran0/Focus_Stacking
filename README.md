@@ -49,9 +49,9 @@ And finally, we will use a Software to retouch some values of the image to finis
 - CombineZ (FREE - Discontinued - for Windows only)
 The original and first version was **CombineZ5**, without change since 2006
 
-**CombineZM** appeared between 2006 and 2008
+**CombineZM** appeared between 2006 and 2008. [Source Code](CombineZ\CombineZ5_source_code.zip)
 
-**CombineZP** is developed by Alan Hadley, and is open source under the GPL license. The [site of Alan HAdleys](http://www.hadleyweb.pwp.blueyonder.co.uk/CZP/files.htm) is down just now, but the code is available here in this repo
+**CombineZP** is developed by Alan Hadley, and is open source under the GPL license. The [site of Alan Hadleys](http://www.hadleyweb.pwp.blueyonder.co.uk/CZP/files.htm) is down just now, but the code is available here in this repo. [Source Code](CombineZ\CombineZP_source_code.zip)
 
 ## References
 - [Focus Stacking - Wikipedia](https://en.wikipedia.org/wiki/Focus_stacking)
